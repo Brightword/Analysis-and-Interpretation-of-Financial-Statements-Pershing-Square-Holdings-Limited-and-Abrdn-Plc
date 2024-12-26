@@ -1,0 +1,1 @@
+# Analysis-and-Interpretation-of-Financial-Statements-Pershing-Square-Holdings-Limited-and-Abrdn-Plc
