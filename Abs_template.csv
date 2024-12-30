@@ -1,0 +1,31 @@
+item,31/12/2022,31/12/2021
+ Assets =,9247000,11418000
+ + AssetsCurrent =,3178000,4162000
+   + CashAndCashEquivalentsAtCarryingValue,1133000,1904000
+   + AvailableForSaleSecuritiesCurrent,0,0
+   + AccountsReceivableNetCurrent,586000,366000
+   + InventoryNet,0,0
+   + DeferredTaxAssetsNetCurrent,7000,2000
+   + NontradeReceivablesCurrent,0,30000
+   + OtherAssetsCurrent,1452000,1860000
+ + AvailableForSaleSecuritiesNoncurrent,0,0
+ + PropertyPlantAndEquipmentNet,201000,187000
+ + Goodwill,0,0
+ + IntangibleAssetsNetExcludingGoodwill,1619000,704000
+ + OtherAssetsNoncurrent,4249000,6365000
+ LiabilitiesAndStockholdersEquity =,9247000,11418000
+ + Liabilities =,3370000,3562000
+   + LiabilitiesCurrent =,2095000,3310000
+     + AccountsPayableCurrent,0,0
+     + AccruedLiabilitiesCurrent,227000,287000
+     + DeferredRevenueCurrent,1868000,3023000
+     + CommercialPaper,0,0
+   + DeferredRevenueNoncurrent,0,0
+   + LongTermDebt,320000,252000
+   + OtherLiabilitiesNoncurrent,955000,0
+ + CommitmentsAndContingencies,0,0
+ + StockholdersEquity =,5877000,7856000
+   + CommonStockValue,0,0
+   + RetainedEarningsAccumulatedDeficit,-71000,0
+   + AccumulatedOtherComprehensiveIncomeLossNetOfTax,5028000,6911000
+   + CommonStocksIncludingAdditionalPaidInCapital,920000,945000
